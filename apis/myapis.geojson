@@ -1,26 +1,12 @@
-{
-    "users": [
-        {
-            "id": 1,
-            "name": "narender",
-            "age": 25
-        },
-        {
-            "id": 2,
-            "name": "narender1",
-            "age": 24
-        }
-    ],
-    "cats": [
-        {
-            "id": 1,
-            "name": "Jenne",
-            "cost": 90
-        },
-        {
-            "id": 2,
-            "name": "Kristoffer",
-            "cost": 100
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "narender",
+        "age": 25
+    },
+    {
+        "id": 2,
+        "name": "narender1",
+        "age": 24
+    }
+]
